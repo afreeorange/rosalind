@@ -1,6 +1,4 @@
 import sys
-import math
-
 
 t = """
 A   71.03711
